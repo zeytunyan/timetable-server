@@ -1,0 +1,12 @@
+{
+  "name": "timetable-server",
+  "version": "0.0.1",
+  "description": "server for showing timetable",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "mariadb": "^2.3.1"
+  }
+}
